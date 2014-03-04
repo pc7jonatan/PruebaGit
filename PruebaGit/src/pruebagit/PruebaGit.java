@@ -16,6 +16,7 @@ public class PruebaGit {
 		// TODO Auto-generated method stub
 		System.out.println("Prueba de EGit en Eclipse.");
 		System.out.println("Segunda versión del programa.");
+		System.out.println("Tercera versión realizada por otro");
 
 	}
 
